@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (don't upload large datasets!)
+data/*
+
+# Results (models, large files)
+results/*
+models/
+*.h5
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db
