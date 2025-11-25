@@ -4,16 +4,18 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+*.nbconvert.ipynb
 
-# Data (don't upload large datasets!)
-data/*
+# Data and large files
+/data/*
+!.gitkeep
 
-# Results (models, large files)
-results/*
+# Results
+/results/
 models/
 *.h5
 *.ckpt
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
