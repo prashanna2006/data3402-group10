@@ -7,11 +7,9 @@ __pycache__/
 *.nbconvert.ipynb
 
 # Data and large files
-/data/*
 !.gitkeep
 
 # Results
-results/*
 !results/.gitkeep
 
 
