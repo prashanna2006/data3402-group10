@@ -18,3 +18,9 @@ results/*
 # OS
 .DS_Store
 Thumbs.db
+
+#Venv
+venv/
+
+#Kaggle Token
+kaggle.json
